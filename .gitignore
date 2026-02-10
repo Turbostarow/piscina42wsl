@@ -1,0 +1,13 @@
+# Compiled binaries
+*.out
+*.o
+*.a
+
+# Vim temporary files
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
